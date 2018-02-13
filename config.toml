@@ -60,7 +60,7 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "richy01.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "richyrecarey@gmail.com"
-  address = "Santiago de Compostela, 15601, Spain"
+  address = "Santiago de Compostela, Spain"
   phone = "+34 618 510 631"
   telegram = ""
 
