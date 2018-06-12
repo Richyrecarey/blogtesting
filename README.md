@@ -1,3 +1,2 @@
-# R Machinery
-Código fuente que genera mi blog personal:
-[Link](https://richyrecarey.netlify.com), realizado con el paquete blogdown.
+# My personal blog
+Code that generates my blog [Link](https://richyrecarey.netlify.com), made with the blogdown package in R.
